@@ -31,7 +31,7 @@
     }
 
     .conteudo__subtitulo{
-        font-size: 35px;
+        font-size: 25px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -39,12 +39,13 @@
     }
 
     .conteudo__subtitulo__destaque {
-        font-size: 35px;
+        font-size: 25px;
     }
 
     .conteudo__paragrafo {
         line-height: 25px;
         display: flex;
+        font-size: 18px;
         align-content: center;
         align-items: center;
         text-align: justify;
@@ -75,9 +76,7 @@
     } 
 
     .imagem {
-        width: 300px;
-        margin-top: 50px;
-        margin-left: 90px; 
+        display: none;
 
     }
 }
