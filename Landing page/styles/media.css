@@ -34,7 +34,7 @@
     }
 
     .conteudo__subtitulo{
-        font-size: 25px;
+        font-size: 30px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -42,7 +42,7 @@
     }
 
     .conteudo__subtitulo__destaque {
-        font-size: 25px;
+        font-size: 30px;
     }
 
     .conteudo__paragrafo {
