@@ -1,7 +1,7 @@
 <h1>Landing Page</h1>
 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido por mim para treinar HTML e CSS</p>
+<p>Projeto desenvolvido com o intuito de exercitar habilidades em HTML e CSS</p>
 
 ## Tecnologias 
 <div>
