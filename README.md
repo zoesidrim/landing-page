@@ -1,7 +1,7 @@
-<h1>Landing Page</h1>
+<h1>Marketin Criativo</h1>
 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido com o intuito de exercitar habilidades em HTML e CSS</p>
+<p>Projeto de landing page desenvolvido com o intuito de exercitar habilidades em HTML e CSS</p>
 
 ## Tecnologias 
 <div>
